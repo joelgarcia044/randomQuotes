@@ -1,3 +1,3 @@
 # ramdomQuotes
 
-## quoteGenerator
+quoteGenerator
