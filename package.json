@@ -1,0 +1,19 @@
+{
+  "name": "ramdomquotes",
+  "version": "1.0.0",
+  "description": "page that generates random quotes",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayjim28/ramdomQuotes.git"
+  },
+  "author": "ray & joel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayjim28/ramdomQuotes/issues"
+  },
+  "homepage": "https://github.com/rayjim28/ramdomQuotes#readme"
+}
