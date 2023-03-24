@@ -1,2 +1,2 @@
-# ramdomQuotes
+# randomQuotes
 quoteGenerator
