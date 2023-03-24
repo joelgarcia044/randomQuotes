@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rayjim28/ramdomQuotes/issues"
   },
-  "homepage": "https://github.com/rayjim28/ramdomQuotes#readme"
+  "homepage": "https://github.com/rayjim28/ramdomQuotes#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
 }
